@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Digital Engagement Specialist at the United Nations Human Settlements Programme | Participatory Planning | Urban Sustainability | Climate Mitigation & Adaptation | Urban Games
 
-## Research Interests
+## Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Digital participatory tools:** Digital participatory governance, Urban Games, Youth Empowerment
+- **Climate Change:** Mitigation & adaptation strategies, GHG emissions tracking methodologies, Nature-based Solutions
+- **Urban Nature:** Urban Biodiversity conservation
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2024]** NbS Methodology published for WUF.
+- **[July. 2024]** Global Minecraft Challenge: Public Space Edition concludes with Emu Nook as Grand Winners.
+- **[Mar. 2024]** Global Minecraft Challenge: Public Space Edition Kicks off!
+- **[Feb. 2024]** Started consultancy with UN-Habitat.
 
 {% include_relative _includes/publications.md %}
 
