@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Digital Engagement Specialist at the United Nations Human Settlements Programme | Participatory Planning | Urban Sustainability | Climate Mitigation & Adaptation | Urban Games
+Digital Engagement Specialist at the United Nations Human Settlements Programme: Participatory Planning, Urban Sustainability, Climate Mitigation & Adaptation, Urban Games
 
 ## Interests
 
