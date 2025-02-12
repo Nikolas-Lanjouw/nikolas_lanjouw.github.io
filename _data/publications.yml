@@ -1,19 +1,18 @@
 main:
 
-  - Book title: <strong>La ciudad como sistema</strong>: metabolismo, resiliencia, y sustentabilidad
-    Section title: Lograr entornos urbanos sostenibles a través de soluciones basadas en la naturaleza
+  - title: Lograr entornos urbanos sostenibles a través de soluciones basadas en la naturaleza
     authors: <strong>*Nikolas Lanjouw* </strong>, Maria Jose Palacio, Jose Chong.
     publisher: Avina Fundacion (2023).
+    cite-as: Lanjouw, N., Palacio, M. J., & Chong, J. (2023). Lograr entornos urbanos sostenibles a través de soluciones basadas en la naturaleza. In F. Rojas (Ed.), La ciudad como sistema: Metabolismo , resiliencia y sustentabilidad (pp. 129–138). Ediciones Irradia. https://biblioteca.avina.net/biblioteca/la-ciudad-como-sistema-metabolismo-resiliencia-y-sustentabilidad/
     pdf: https://biblioteca.avina.net/biblioteca/la-ciudad-como-sistema-metabolismo-resiliencia-y-sustentabilidad/
-    cite as: Lanjouw, N., Palacio, M. J., & Chong, J. (2023). Lograr entornos urbanos sostenibles a través de soluciones basadas en la naturaleza. In F. Rojas (Ed.), La ciudad como sistema: Metabolismo , resiliencia y sustentabilidad (pp. 129–138). Ediciones Irradia. https://biblioteca.avina.net/biblioteca/la-ciudad-como-sistema-metabolismo-resiliencia-y-sustentabilidad/
     image: https://drive.google.com/file/d/14nT6ZRvZYvMsBDYQSdt7ulRhkryQ2J9q/view?usp=drive_link
     notes: English copy available on request.
 
   - title: <strong>The Critical Role of Nature-based Solutions for Enhancing Climate Resilience in Informal Areas:</strong> An Urban Supplement to the UNFCCC Technical Guidelines on National Adaptation Plans 
-    authors: 
+    authors: Andrews, B., Carrillo-Silva, D., Illeva, L., & Kizhakkethottam, C.
     publisher: UN-Habitat
     pdf: https://unhabitat.org/the-critical-role-of-nature-based-solutions-for-enhancing-climate-resilience-in-informal-areas
-    cite as: Andrews, B., Carrillo-Silva, D., Illeva, L., & Kizhakkethottam, C. (2023). The Critical Role of Nature-based Solutions for Enhancing Climate Resilience in Informal Areas: An Urban Supplement to the UNFCCC Technical Guidelines on National Adaptation Plans. UN-Habitat. https://unhabitat.org/sites/default/files/2023/10/unh._2023._the_critical_role_of_nature-based_solutions_for_enhancing_climate_resilience_in_informal_areas.pdf
+    cite-as: Andrews, B., Carrillo-Silva, D., Illeva, L., & Kizhakkethottam, C. (2023). The Critical Role of Nature-based Solutions for Enhancing Climate Resilience in Informal Areas: An Urban Supplement to the UNFCCC Technical Guidelines on National Adaptation Plans. UN-Habitat. https://unhabitat.org/sites/default/files/2023/10/unh._2023._the_critical_role_of_nature-based_solutions_for_enhancing_climate_resilience_in_informal_areas.pdf
     image: https://drive.google.com/file/d/1mqd5nikHluR43hH-poWxLHb7h8Qn5hWt/view?usp=drive_link
     notes: Contributor.
 
@@ -21,5 +20,5 @@ main:
     authors: Joy Mutai, Nikolas Lanjouw, Jing Ren.
     publisher: UN-Habitat
     website: https://storymaps.arcgis.com/stories/b45029fe21674d26a1307e604b0af041
-    cite as: Mutai, Joy., Lanjouw, Nikolas., Ren, Jing.
+    cite-as: Mutai, Joy., Lanjouw, Nikolas., Ren, Jing. (2024) Assessment of Public Spaces in a Heritage District, Wuchang, Wuhan, China.
     notes: Report not published to the public. 
